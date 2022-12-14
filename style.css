@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: lightgray;
+  font-size: 22px;
+}
+
+.subtitulo{
+ background-color: rgb(100, 100, 100);margin-left:300px ;margin-right: 300px;
+}
+
+#A1{
+  font-size: 30px;
+}
+
+strong{
+  color: red;
+}
